@@ -1,3 +1,5 @@
+# Peer to Peer Degrees of Trust
+
 Harrison Stahl, Titus Capilnean, Peter Snyder, Tyler Yasaka
 
 Rebooting the Web of Trust, Fall 2018
@@ -339,7 +341,7 @@ Second, we are interested in seeing various trust metrics proposed, in
 addition to a careful analysis of the strengths and weaknesses of each
 metric. Game-theoretic analyses, models, and simulations are welcomed.
 We are interested in how this framework might be combined with other
-techniques to create real-world reputation systems. And finally, we are
+techniques to create real-world reputation systems. Finally, we are
 interested in further consideration of the human, social implications of
 the ideas presented.
 
